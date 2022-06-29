@@ -1,7 +1,10 @@
 # corona-desktop-application
 installation:
-python 3.8
-mysql database
+python >= 3
+https://www.python.org/downloads/
+
+mysql database:
+https://dev.mysql.com/downloads/installer/
 
 Desciption:
 This is a simple desktop application based on tkinter gui using python.
